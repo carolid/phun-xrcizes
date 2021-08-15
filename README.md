@@ -8,10 +8,12 @@ To use:
 3. Open your web browser and navigate to https://localhost:3000
 
 # Tech Stack:
-React.js
-Node.js (using Nodemon)
-Express
-MongoDB
-Mongoose
+<ul>
+  <li>React.js</li>
+  <li>Node.js (using Nodemon</li>
+  <li>Express</li>
+  <li>MongoDB</li>
+  <li>Mongoose</li>
+</ul>
 
 
